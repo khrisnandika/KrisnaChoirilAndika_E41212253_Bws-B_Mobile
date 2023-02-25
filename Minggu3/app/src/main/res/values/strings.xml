@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Minggu3</string>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>America</item>
+        <item>Australia</item>
+        <item>Antarctica</item>
+        <item>Argentina</item>
+        <item>Arab</item>
+        <item>Bangladesh</item>
+        <item>Indonesia</item>
+    </string-array>
+
+
+</resources>
