@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_gambar">
+        <item>bootsrap</item>
+        <item>cplus</item>
+        <item>facebook</item>
+        <item>html</item>
+        <item>instagram</item>
+        <item>java</item>
+        <item>javascript</item>
+        <item>massanger</item>
+        <item>php</item>
+        <item>python</item>
+        <item>telegram</item>
+        <item>twitter</item>
+        <item>whatsapp</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+        <item>ini adalah deskripsi</item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/gambarMakanan"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/instagram"
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:id="@+id/txtNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/gambarMakanan"
+        android:layout_marginLeft="10dp"
+        android:text="Instagram"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:id="@+id/txtDeskripsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/gambarMakanan"
+        android:layout_below="@+id/txtNama"
+        android:layout_marginLeft="10dp"
+        android:text="Ini adalah deskripsi"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:id="@+id/txtHarga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/gambarMakanan"
+        android:layout_below="@+id/txtDeskripsi"
+        android:layout_marginLeft="10dp"
+        android:text="Ini adalah harga"
+        android:textColor="@color/black"
+        />
+
+
+</RelativeLayout>

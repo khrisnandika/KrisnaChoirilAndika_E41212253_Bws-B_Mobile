@@ -23,16 +23,18 @@
         <activity
             android:name=".LinearLayout"
             android:exported="false">
+
             <meta-data
                 android:name="android.app.lib_name"
-                android:value="" />
+                android:value="false" />
         </activity>
         <activity
             android:name=".FrameLayout"
             android:exported="false">
+
             <meta-data
                 android:name="android.app.lib_name"
-                android:value="" />
+                android:value="false" />
         </activity>
         <activity
             android:name=".ConstraintLayout"
@@ -45,11 +47,12 @@
 
             <meta-data
                 android:name="android.app.lib_name"
-                android:value="" />
+                android:value="false" />
         </activity>
         <activity
             android:name=".RelativeLayout"
             android:exported="false">
+
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
