@@ -32,8 +32,16 @@ public class AutoCompleteTextView extends AppCompatActivity {
     void addData(){
         mahasiswaArrayList = new ArrayList<>();
         mahasiswaArrayList.add(new Mahasiswa("Dimas Maulana", "121212", "0912312"));
-        mahasiswaArrayList.add(new Mahasiswa("Fadul Maulana", "121212", "0912312"));
-        mahasiswaArrayList.add(new Mahasiswa("Fathan Maulana", "121212", "0912312"));
+        mahasiswaArrayList.add(new Mahasiswa("Fadli Yonk", "121212", "0912312"));
+        mahasiswaArrayList.add(new Mahasiswa("Ariyandi Nugraha", "121212", "0912312"));
         mahasiswaArrayList.add(new Mahasiswa("Sandika Maulana", "121212", "0912312"));
+        mahasiswaArrayList.add(new Mahasiswa("Aham Siswana", "121212", "0912312"));
+        mahasiswaArrayList.add(new Mahasiswa("Abdul Maulana", "121212", "0912312"));
+        mahasiswaArrayList.add(new Mahasiswa("Rudi Maulana", "121212", "0912312"));
+        mahasiswaArrayList.add(new Mahasiswa("ALex Maulana", "121212", "0912312"));
+        mahasiswaArrayList.add(new Mahasiswa("Jamal Maulana", "121212", "0912312"));
+        mahasiswaArrayList.add(new Mahasiswa("Galih Maulana", "121212", "0912312"));
+        mahasiswaArrayList.add(new Mahasiswa("Fatan Maulana", "121212", "0912312"));
+        mahasiswaArrayList.add(new Mahasiswa("Jamal Maulana", "121212", "0912312"));
     }
 }

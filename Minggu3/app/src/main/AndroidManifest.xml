@@ -30,7 +30,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".AutoCompleteTextView"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,7 +42,7 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".AutoCompleteTextView"
             android:exported="false">
 
             <meta-data
